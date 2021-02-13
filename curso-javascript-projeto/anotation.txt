@@ -1,0 +1,20 @@
+ "_" em frente ao atributo torna ele privado
+
+ setInterval execulta a ação varias vezes conforme o tempo determinado e varias vezes 
+
+ setTimeOut execulta a ação após o termo determinado e uma unica vez
+
+ clearInterval(nome do id inteval) para o interval
+
+ toLocaleDateString(this._locale,{
+            day: "2-digit", dois digitos
+            month: "long", escrito "Março" ou shor "Mar"
+            year: "numeric"}) numerico "2020"
+
+replace é para substituir ou seja replace("duda","eu") vai substituir o "duda" com a string "eu" 
+
+.split(' ') cria um separador
+
+.join  insere o separador
+
+multiplos eventos 
