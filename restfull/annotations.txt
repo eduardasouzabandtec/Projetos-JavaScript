@@ -1,0 +1,22 @@
+package.json = qual versão do codigo, quais o medolos que dependem dele ,
+ o que eu estous fazendo com esse codigo. toda configuração fica aqui 
+ para criar da um npm init 
+
+
+ colocar o expresse como dependencia npm install express -- save (instala e insere no package)
+
+ nodemon serviço que deixa rodando e quando salvo o arquivo sobe o servidor automaticamente npm nodemon -g (instala de forma global)
+ sobe a aplicacao com nodemo + node da aplicacao
+
+
+ npm intall consing -- save é um modulo 
+
+ npm install body-parser - modulo para interpretar o dados do post 
+
+
+ npm install nedb --save banco de dados do js 
+
+
+ Object.assign() junta os objetos (concatenação)
+
+ npm install express-validator --save validador do post, express
